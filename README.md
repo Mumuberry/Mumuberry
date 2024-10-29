@@ -24,9 +24,9 @@ Let’s enjoy the music and code together!
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2VpOTg0a2wzaGp0dGdtdjAxcno2ZTdzdmg5ejkxYmN6endjNjJvaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5tiNlHkA1WdUh3jRDW/giphy.webp" alt="" height="300px">
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lesley-gao&layout=compact&cache_seconds=86400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mumuberry&layout=compact&cache_seconds=86400)
 
-![Visitor Count](https://profile-counter.glitch.me/{lesley-gao}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{Mumuberry}/count.svg)
 
 </div>
 
